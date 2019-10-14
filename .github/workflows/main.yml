@@ -1,0 +1,8 @@
+name: LabelToComment
+
+on: 
+  issues:
+  label: rerun
+  commit_comment: 'rerun'
+
+    
